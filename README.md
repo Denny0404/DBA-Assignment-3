@@ -4,8 +4,6 @@
 ## 👨‍🎓 Student Info
 - **Name:** Denish Akbari
 - **Course:** PROG8850 – Database Automation
-- **Instructor:** [Your Instructor Name]
-- **Date:** June 21, 2025
 
 ---
 
