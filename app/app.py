@@ -25,7 +25,7 @@ def login():
             conn.commit()
             cursor.close()
             conn.close()
-            return "User added successfully!"
+            return render_template("success.html", username=username)
         except Exception as e:
             return f"Error: {e}"
 
